@@ -1,0 +1,6 @@
+scikit-learn pillow
+facenet-pytorch
+torch
+streamlit
+opencv-python-headless
+
